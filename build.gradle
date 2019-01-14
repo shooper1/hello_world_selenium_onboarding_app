@@ -17,7 +17,7 @@ repositories {
 //Project dependencies
 
 dependencies {
-	compile name: 'selenium-server-standalone-2.48.2'
+	compile files('/home/centos/selenium-server-standalone-2.48.2.jar')
 }
 
 sourceSets {
